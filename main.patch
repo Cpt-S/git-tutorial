@@ -1,0 +1,13 @@
+diff --git a/bin/main.c b/bin/main.c
+deleted file mode 100644
+index 0c66bc5..0000000
+--- a/bin/main.c
++++ /dev/null
+@@ -1,6 +0,0 @@
+-#include<stdio.h>
+-
+-int main() {
+-	printf("Hello ESPL\n");
+-	return 0;
+-}
+\ No newline at end of file
